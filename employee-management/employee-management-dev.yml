@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3307/empmgmt
+    url: jdbc:mysql://localhost:3306/empmgmt
     username: nitin
     password: ENC(pZgwFjsJ5zhz/u+8/D11WEfGd3e9HZPh)
   cloud:
